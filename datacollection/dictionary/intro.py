@@ -25,5 +25,9 @@ dict={'name':'adila','age':7,'class':10}
 #keys are homo
 # values are hetro
 #nesting possible
-d={1:'hello',2:{3:2,4:6}}
-print(d)
+# d={1:'hello',2:{3:2,4:6}}
+# print(d)
+# for i in d:
+#     print(i)
+a=2
+print(type(a))

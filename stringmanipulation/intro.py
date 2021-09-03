@@ -12,11 +12,12 @@
 #         if i==a:
 #             print(i)
 #alternate
-a="afdh"
-b="cdfk"
-for i in a:
-    if i not in b:
-        print(i)
-
-
+# a="afdh"
+# b="cdfk"
+# for i in a:
+#     if i not in b:
+#         print(i)
+# s="string"
+# p=len(s)
+# print(p)
 
