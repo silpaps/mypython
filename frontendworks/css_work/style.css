@@ -1,0 +1,18 @@
+/* tagname ,id ,classname {
+property :value;
+property:value;
+property:value;
+
+}*/
+h1{
+    color: red;
+}
+#htwo{
+    color:seagreen
+}
+#sec{
+    color: salmon;
+}
+.third{
+    color: yellow;
+}
