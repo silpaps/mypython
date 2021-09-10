@@ -1,0 +1,14 @@
+div{
+    height: 80px;
+    background-color: lightslategray;
+    border: 1px solid black;
+    width: 50%;
+    margin-left: 236px;
+    padding: 10%;
+}
+.footer{
+    margin-top: 598px;
+}
+.head {
+    padding: 50px;
+}
