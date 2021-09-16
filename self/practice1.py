@@ -39,23 +39,41 @@
 # s='{0}{1}{2}'.format("a","b","c")
 # print(s)
 
-def calculator(num1, op, num2):
-    if op=="+":
-             re=num1+num2
-             return re
-    elif op=="-":
-             re=num1-num2
-             return re
-    elif op=="*":
-             re=num1*num2
-             return re
+# def calculator(num1, op, num2):
+#     if op=="+":
+#              re=num1+num2
+#              return re
+#     elif op=="-":
+#              re=num1-num2
+#              return re
+#     elif op=="*":
+#              re=num1*num2
+#              return re
+#     else:
+#          if num2==0:
+#                  return "cant divide with zero"
+#
+#          else:
+#                  re = num1 / num2
+#                  return re
+
+# res=calculator(10,"/",0)
+# print(res)
+str=input("enter a string ")
+l=len(str)
+if l>2:
+    if str[0]==str[l-1]:
+        ch=input("enter the charecter to check the occurence")
+        count=0
+        for i in str:
+            if i==ch:
+                count+=1
+        print(count)
     else:
-         if num2==0:
-                 return "cant divide with zero"
+        print("0")
+else:
+    print("-1")
 
-         else:
-                 re = num1 / num2
-                 return re
 
-res=calculator(10,"/",0)
-print(res)
+
+

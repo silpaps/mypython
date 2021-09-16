@@ -1,0 +1,129 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap');
+.icon{
+    width:51px;
+    height:52px;
+    border: 1px solid white;
+    position: relative;
+    left: 50%;
+    margin-top: 39px;
+    }
+ .head h2{
+    font-family: 'Montserrat', sans-serif;
+ }
+ .form{
+    width: 336px;
+    height: 253px;
+    border: 1px solid black;
+    position: absolute;
+    left: 40%;
+    margin-top: 94px;
+    background-color:#e1f2ed;
+
+ } 
+  .head{width: 271px;
+    height: 47px;
+    
+    
+    position: absolute;
+    top: 106px;
+    left: 44%;
+
+     
+  }
+ .first{
+    width: 274px;
+    height: 18px;
+    
+    
+    position: absolute;
+    top:21px;
+    left: 19px;
+
+ } 
+ 
+ 
+ .sec{
+   width: 287px;
+   height: 35px;
+  
+   position: absolute;
+   top: 48px;
+   left: 25px;
+   
+ }
+ .sec input{
+   width: 280px;
+   height: 27px;
+ }
+ .third{
+   width: 95px;
+   height: 21px;
+   
+   position: absolute;
+   top: 102px;
+   left: 19px;
+ }
+ .forth{
+   width: 123px;
+   height: 21px;
+   
+   position: absolute;
+   top: 102px;
+   right: 32px;
+ }
+ .fifth{
+   width: 290px;
+   height: 36px;
+   
+   position: absolute;
+   top: 137px;
+   left: 25px;
+ }
+ .fifth input
+ {
+  width: 280px;
+  height: 27px;
+ }
+.sixth{
+  width: 290px;
+   height: 32px;
+   
+   position: absolute;
+   top: 194px;
+   left: 25px;
+   
+}
+.sixth input{
+  width: 287px;
+  height: 29px;
+  background-color: #0d802f;
+  
+}
+.mid{
+  width: 336px;
+  height: 87px;
+  border: 1px solid black;
+  position: absolute;
+  left:40%;
+  top:490px;
+}
+.fit
+{
+  width: 115px;
+  height: 39px;
+  border: 1px solid black;
+  position: absolute;
+  left:0px;
+  top: 0px;
+  padding-bottom: 19px;
+
+}
+.second
+{
+  width: 116px;
+  height: 21px;
+  border: 1px solid black;
+  position:absolute;
+  left:207px;
+  top: 19px;
+}
